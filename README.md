@@ -1,5 +1,6 @@
 # JPM_Quant_Research
 JPMorgan Chase &amp; Co. Quant Research Virtual Experience Program
-[JPM_Chi-Shing(Alex)Chan.pdf](https://github.com/alexchancs/JPM_Quant_Research/files/14030802/JPM_Chi-Shing.Alex.Chan.pdf)
+![JPM_Quant](https://github.com/alexchancs/JPM_Quant_Research/assets/116485687/800a87b2-f7ef-4f14-9546-79f3f3963444)
+
 
 
